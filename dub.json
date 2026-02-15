@@ -2,12 +2,6 @@
 	"authors": [
 		"Jakob Ovrum"
 	],
-	"configurations": [
-		{
-			"name": "library",
-			"targetType": "library"
-		}
-	],
 	"copyright": "Copyright© Jakob Ovrum 2011-2013",
 	"description": "Standard-compliant, high-performance IRC library",
 	"homepage": "https://github.com/JakobOvrum/Dirk",
@@ -17,9 +11,6 @@
 	},
 	"importPaths": [
 		"."
-	],
-	"libs-posix": [
-		"dl"
 	],
 	"license": "MIT",
 	"name": "dirk",
